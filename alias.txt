@@ -1,0 +1,2 @@
+alias pwd="pwd; echo '{FLAG_PWD}'; unalias pwd"
+alias cd="cd; echo '{FLAG_CD}'; unalias cd"
